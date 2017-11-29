@@ -68,7 +68,7 @@ function liveblog_update_8002() {
     'field.storage.node.field_posts_load_limit',
     'field.storage.node.field_posts_number_initial',
     'field.storage.node.field_status',
-    'node.type.liveblog'.
+    'node.type.liveblog',
     'taxonomy.vocabulary.highlights',
   ];
   foreach ($config_to_fix as $name) {
